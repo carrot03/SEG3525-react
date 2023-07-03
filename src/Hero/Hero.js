@@ -35,7 +35,7 @@ function Hero() {
       <Container id="hero">
         <Col xs={6} md={4}>
           <Image
-            src="http://www.blessroll.com/images/common/bbb_main_banner01.jpg"
+            src="./images/hero.jpg"
             alt="Bless roll"
             className="hero-image"
           />
